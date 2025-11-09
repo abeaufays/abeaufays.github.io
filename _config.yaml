@@ -1,4 +1,10 @@
+title: Abeaufays
+description: >-
+  My personal blog.
+
 remote_theme: "jekyll/minima@bf9ef98"
+
+github_username: abeaufays
 
 minima:
   skin: auto
