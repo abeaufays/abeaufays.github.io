@@ -8,3 +8,14 @@ github_username: abeaufays
 
 minima:
   skin: auto
+  social_links:
+    - title: Github
+      icon: github
+      url: https://github.com/abeaufays
+    - title: Mastodon
+      icon: mastodon
+      url: https://mastodon.social/@abeaufays
+    - title: Linkedin
+      icon: linkedin
+      url: https://www.linkedin.com/in/alexandrebeaufays
+
