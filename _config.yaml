@@ -4,17 +4,11 @@ description: My personal blog.
 theme: minima
 
 github_username: abeaufays
+linkedin_username: alexandrebeaufays
+mastodon:
+  - username: abeaufays
+    instance: mastodon.social
 
 minima:
   skin: auto
-  social_links:
-    - title: Github
-      icon: github
-      url: https://github.com/abeaufays
-    - title: Mastodon
-      icon: mastodon
-      url: https://mastodon.social/@abeaufays
-    - title: Linkedin
-      icon: linkedin
-      url: https://www.linkedin.com/in/alexandrebeaufays
 
