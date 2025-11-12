@@ -1,4 +1,8 @@
-## About me 👋
+---
+layout: page
+title: About me 👋
+permalink: /about/
+---
 
 I'm a Software Engineer at [Kraken Technologies](https://kraken.tech/), where I work with Python on large-scale codebases.
 
