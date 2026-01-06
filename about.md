@@ -12,4 +12,4 @@ My background includes experience with C#, Java, and C++.
 I contributed the [protected](https://import-linter.readthedocs.io/en/stable/contract_types.html#protected-modules) contract type to [import-linter](https://github.com/seddonym/import-linter).
 
 **Developer Setup:**  
-Check out [my configuration setup](https://github.com/abeaufays/shared_config) featuring custom git aliases and productivity tools.
+Check out [my configuration setup](https://github.com/abeaufays/dotfiles) featuring custom git aliases and productivity tools.
